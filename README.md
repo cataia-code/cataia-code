@@ -15,7 +15,7 @@ I actively share my knowledge as a speaker at academic and technology-focused ev
 - 👯 I’m looking to collaborate on AI, data science, and data engineering projects with social and environmental impact.
 - 🤔 I’m looking for help with improving open-source projects related to data science and real-time analytics.
 - 💬 Ask me about AI model deployment, data pipelines, and predictive analytics.
-- 📫 How to reach me: briyidcatalinacruzostos@gmail.com | [LinkedIn](https://www.linkedin.com/in/bccro)
+- 📫 How to reach me: briyidcatalinacruzostos@gmail.com | [LinkedIn](www.linkedin.com/in/bccruzo)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy dancing, drawing, and exploring how technology can help protect wildlife and biodiversity.
 
